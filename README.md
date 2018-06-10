@@ -21,5 +21,7 @@ MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
     * Or if you downloaded the modpack zip file click browse and add it through the file browser.
     </p><img border="0" alt="W3Schools" src="https://i.imgur.com/yfkgvyr.png">
     
-4. Lastly, naming the pack, changing the icon and adding it to a group if you would like to do so.
+4. Next name the pack, change the icon and add it to a group if you would like to do so.
     </p><img border="0" alt="W3Schools" src="https://i.imgur.com/qfJmHwC.png">
+
+5. And finally click the Okay button and MultiMC will get everyting set up for you!
