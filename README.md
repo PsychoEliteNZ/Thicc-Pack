@@ -1,9 +1,11 @@
-# Thicc-Pack
+<center><p><img border="0" alt="W3Schools" src="https://i.imgur.com/PHbdt3d.png"></p>
+   
+# Thicc Pack
 Custom Minecraft 1.12.2 Modpack
-## Prerequisite
+### Prerequisite
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
-## Installation Instructions
+### Installation Instructions
 1. Copy this download link to use on Multi MC for step 3: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
     * Alternatively download the modpack by clicking green download button near the top of the page or directly below below.
     <p><a href="https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip"><img border="0" alt="W3Schools" src="https://i.imgur.com/OWChfrV.png"></a></p>
@@ -25,3 +27,5 @@ MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
     </p><img border="0" alt="W3Schools" src="https://i.imgur.com/qfJmHwC.png">
 
 5. And finally click the Okay button and MultiMC will get everyting set up for you!
+
+6. Once MultiMC is done installing the pack 
