@@ -10,7 +10,7 @@ MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 #### 1: Download the modpack zip by clicking green download button near the top of the page.
 <p><a href="https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip"><img border="0" alt="" src="https://i.imgur.com/OWChfrV.png"></a></p>
 
-> Alternatively use this link on Multi MC for step 3 if you chose not to download the pack: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
+> Alternatively use this link on MultiMC for step 4 if you chose not to download the pack: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
 
 #### 2: Once the download is complete or you have the link copied, open MultiMC and click the add instance button.
 
