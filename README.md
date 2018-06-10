@@ -1,6 +1,6 @@
 # Thicc-Pack
 Custom Minecraft 1.12.2 Modpack
-## Requisites
+## Prerequisite
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
 ## Installation Instructions
