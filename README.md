@@ -7,7 +7,7 @@ Custom Minecraft 1.12.2 Modpack
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
 ## Installation Instructions
-#### 1: Download the modpack zip by clicking green 'clone or download' button near the top of the page and select 'Download Zip'.
+#### 1: Download the modpacks zip file by clicking green 'clone or download' button near the top of the page and select 'Download Zip'.
 > Alternatively use this link on MultiMC for step 4 if you chose not to download the pack: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
 
 #### 2: Once the download is complete or you have the link copied, open MultiMC and click the add instance button.
