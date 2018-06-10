@@ -1,3 +1,7 @@
 # Thicc-Pack
-### Requisites
-MUltiMC - [Download Link](https://multimc.org/#Download)
+## Requisites
+MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
+
+## Installation Instructions
+1. 
+2. 
