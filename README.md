@@ -2,14 +2,24 @@
    
 # Thicc Pack
 Custom Minecraft 1.12.2 Modpack
-### Prerequisite
+
+- - - - 
+
+## Prerequisite
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
-### Installation Instructions
+Java 1.8.0 Installed - [Download Link](https://java.com/en/download/manual.jsp)
+
+    'Windows Offline' for 32bit windows, 'Windows Offline(64-bit)' for 64bit windows
+
+ Minimum of 8Gb of RAM on your pc recommended
+
+- - - -
+
+## Installation Instructions
 1. Copy this download link to use on Multi MC for step 3: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
     * Alternatively download the modpack by clicking green download button near the top of the page or directly below below.
     <p><a href="https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip"><img border="0" alt="W3Schools" src="https://i.imgur.com/OWChfrV.png"></a></p>
-
 
 2. Once the download is complete or you have the link copied, open MultiMC and click add instance.
     <p><img border="0" alt="W3Schools" src="https://i.imgur.com/BSbmFue.png"></p>
