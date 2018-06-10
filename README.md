@@ -2,18 +2,14 @@
    
 # Thicc Pack
 Custom Minecraft 1.12.2 Modpack
-
 - - - - 
 
 ## Prerequisite
+Windows(64-bit) Minimum of 8Gb of RAM on your pc recommended
+
+Java 1.8.0(64bit) Installed - [Download Link](https://java.com/en/download/manual.jsp)
+
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
-
-Java 1.8.0 Installed - [Download Link](https://java.com/en/download/manual.jsp)
-
-    'Windows Offline' for 32bit windows, 'Windows Offline(64-bit)' for 64bit windows
-
- Minimum of 8Gb of RAM on your pc recommended
-
 - - - -
 
 ## Installation Instructions
@@ -39,3 +35,4 @@ Java 1.8.0 Installed - [Download Link](https://java.com/en/download/manual.jsp)
 5. And finally click the Okay button and MultiMC will get everyting set up for you!
 
 6. Once MultiMC is done installing the pack 
+- - - -
