@@ -32,7 +32,11 @@ MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 4. Next name the pack, change the icon and add it to a group if you would like to do so.
     </p><img border="0" alt="W3Schools" src="https://i.imgur.com/qfJmHwC.png">
 
-5. And finally click the Okay button and MultiMC will get everyting set up for you!
+5. Click the Okay button and MultiMC will install the pack, Once the pack is installed with it now selected click on settings.
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/B41tKDD.png">
 
-6. Once MultiMC is done installing the pack 
+6. Next with your setting open click the Java tab on the left and increase the maximim amount of RAM then close your settings meny. Recommended amount: 4096mb RAM
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/NbFLOH3.png">
+
+7. Thats it! youre done and may now play your game!
 - - - -
