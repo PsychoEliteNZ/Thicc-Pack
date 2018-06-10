@@ -5,6 +5,7 @@
 Custom Minecraft 1.12.2 Modpack
 ## Requisites
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
+Java 1.8.0 Installed
 
 ## Installation Instructions
 #### 1: Download the modpacks zip file by clicking the green 'clone or download' button near the top of the page and select 'Download Zip'.
