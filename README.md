@@ -3,12 +3,12 @@
 - - - - 
 
 Custom Minecraft 1.12.2 Modpack
-## Requisites
+## Prerequisites
 Windows(64-bit) Minimum of 8Gb of RAM on your pc recommended
 
-MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
-
 Java 1.8.0(64bit) Installed - [Download Link](https://java.com/en/download/manual.jsp)
+
+MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
 ## Installation Instructions
 #### 1: Download the modpacks zip file by clicking the green 'clone or download' button near the top of the page and select 'Download Zip'.
