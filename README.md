@@ -40,3 +40,6 @@ MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
 7. Thats it! youre done and may now play your game!
 - - - -
+
+#### Thicc Pack Icon
+</p><img border="0" alt="W3Schools" src="https://i.imgur.com/Co3CiVt.png">
