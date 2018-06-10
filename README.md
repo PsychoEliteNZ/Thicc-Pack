@@ -7,10 +7,27 @@ Custom Minecraft 1.12.2 Modpack
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
 
 ## Installation Instructions
-#### Download the modpack zip by clicking green download button near the top of the page.
+#### 1: Download the modpack zip by clicking green download button near the top of the page.
 <p><a href="https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip"><img border="0" alt="" src="https://i.imgur.com/OWChfrV.png"></a></p>
 
-> Alternatively use this download link on Multi MC for step 3 if you chose not to download the pack: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
+> Alternatively use this link on Multi MC for step 3 if you chose not to download the pack: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
 
-#### Once the download is complete or you have the link copied, open MultiMC and click the add instance button.
-<p><img border="0" alt="W3Schools" src="https://i.imgur.com/BSbmFue.png"></p>
+#### 2: Once the download is complete or you have the link copied, open MultiMC and click the add instance button.
+
+#### 3: Select 'Import from zip' on the left side.
+
+#### 4: Click on the 'Browse' button and select the Thicc-Pack.zip folder you downloaded.
+> Alternatively paste the link from above in the url bar if you are going that route
+>> You can change the mod packs name and image using the options at the top of this screen if you so please
+
+#### 5: Click 'OK'
+> The Modpack will now start downloading.
+
+#### 6: Once the download is finished Right click on the modpacks instance and click 'Edit Instance'.
+
+#### 7: Click on 'Settings' on the left and change the 'Maximum memory allocation' to 5120 MB.
+> You may need to also change this under MultiMc's settings button at the top, the option will be found under 'Java'
+>>If you want to add more memory you can make the ammount larger, 5120 is just the recomended ammount
+
+#### 8: Now launch the modpack instance to start your game
+> The first time launching an instance will download the correct minecraft version before it launches so wait for that to be done and your game will automatically open
