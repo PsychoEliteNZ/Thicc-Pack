@@ -1,35 +1,50 @@
-# Thicc-Pack #
-
+<center><p><img border="0" alt="W3Schools" src="https://i.imgur.com/PHbdt3d.png"></p>
+   
+# Thicc Pack
+Custom Minecraft 1.12.2 Modpack
 - - - - 
 
-Custom Minecraft 1.12.2 Modpack
-## Prerequisites
+## Prerequisite
+
 Windows(64-bit) Minimum of 8Gb of RAM on your pc recommended
 
 Java 1.8.0(64bit) Installed - [Download Link](https://java.com/en/download/manual.jsp)
 
 MUltiMC Launcher - [Download Link](https://multimc.org/#Download)
+- - - -
 
 ## Installation Instructions
-#### 1: Download the modpacks zip file by clicking the green 'clone or download' button near the top of the page and select 'Download Zip'.
-> Alternatively use this link on MultiMC for step 4 if you chose not to download the pack: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
 
-#### 2: Once the download is complete or you have the link copied, open MultiMC and click the add instance button.
+=======
+1. Copy this download link to use on Multi MC for step 3: https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip
+    * Alternatively download the modpack by clicking green download button near the top of the page or directly below below.
+    <p><a href="https://github.com/PsychoEliteNZ/Thicc-Pack/archive/master.zip"><img border="0" alt="W3Schools" src="https://i.imgur.com/OWChfrV.png"></a></p>
 
-#### 3: Select 'Import from zip' on the left side.
+2. Once the download is complete or you have the link copied, open MultiMC and click add instance.
+    <p><img border="0" alt="W3Schools" src="https://i.imgur.com/BSbmFue.png"></p>
 
-#### 4: Click on the 'Browse' button and select the Thicc-Pack.zip folder you downloaded.
-> Alternatively paste the link from above in the url bar if you are going that route
->> You can change the mod packs name and image using the options at the top of this screen if you so please
+3. With the new window open click import from zip on the left
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/7whuSr7.png"></p>
+    
+    * Paste the link that you copied earlier into this box
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/J2J8KAg.png"></p>
+    
+    * Or if you downloaded the modpack zip file click browse and add it through the file browser.
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/yfkgvyr.png">
+    
+4. Next name the pack, change the icon and add it to a group if you would like to do so.
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/qfJmHwC.png">
 
-#### 5: Click 'OK'
-> The Modpack will now start downloading.
+5. Click the Okay button and MultiMC will install the pack, Once the pack is installed with it now selected click on settings.
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/B41tKDD.png">
 
-#### 6: Once the download is finished Right click on the modpacks instance and click 'Edit Instance'.
+6. Next with your setting open click the Java tab on the left and increase the maximim amount of memory then close your settings menu. Recommended amount: 4096mb
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/NbFLOH3.png">
 
-#### 7: Click on 'Settings' on the left and change the 'Maximum memory allocation' to 5120 MB.
-> You may need to also change this under MultiMc's settings button at the top, the option will be found under 'Java'
->>If you want to add more memory you can make the ammount larger, 5120 is just the recomended ammount
+7. Thats it! youre done and may now play your game!
+    </p><img border="0" alt="W3Schools" src="https://i.imgur.com/dtbYnhm.png">
+- - - -
 
-#### 8: Now launch the modpack instance to start your game
-> The first time launching an instance will download the correct minecraft version before it launches so wait for that to be done and your game will automatically open
+#### Thicc Pack Icon
+</p><img border="0" alt="W3Schools" src="https://i.imgur.com/Co3CiVt.png">
+
